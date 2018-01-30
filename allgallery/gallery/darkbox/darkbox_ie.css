@@ -1,0 +1,23 @@
+		* HTML BODY {
+			background:url(about:blank) fixed;
+			}
+		* HTML .darkbox-frame {
+			position:absolute;
+			top:expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+'px');
+			}
+		.darkbox-shadow {
+			filter:alpha(opacity=0);
+			}
+		.darkbox-canvas {
+			filter:alpha(opacity=50);
+			}
+		.darkbox-canvas-done {
+			filter:none;
+			}
+			.darkbox-canvas-done IMG {
+				filter:alpha(opacity=0);
+				}
+		* HTML .darkbox-button {
+			background:none;
+			filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='button.png',sizingMethod='crop');
+			}

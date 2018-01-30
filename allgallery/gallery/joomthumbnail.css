@@ -1,0 +1,12 @@
+.joomthumbnail_joom {border: 1px solid #cccccc; display: inline-block;  position: relative; padding: 0 0 3px 0; margin: 0px 2px 0 2px;}
+.joomthumbnail_joom:hover{border-color: gray;}
+.joomthumbnail_joom img{padding: 0px; margin: 0px;}
+.joomthumbnail_joom .ageent-ru{margin: 3px 3px 3px 3px; padding: 0px; display: inline-block; line-height: 0px; font-size: 0px;}
+.joomthumbnail_joom .ageent-ru img{ border: 1px solid #cccccc; }
+.joomthumbnail_joom .ageent-ru:hover img{ border: 1px solid #cccccc; }
+.joomthumbnail_joom .joomthumbnail_discript{ text-align: left; margin: 0 0 0 5px; font-size: 11px; position: relative; display: block;}
+.joomthumbnail_joom .big_image { background: url(darkbox/big_image.jpg) no-repeat; width: 15px; height: 11px; display: inline-block; float: right; margin: 0 3px 0 0;}
+.joomthumbnail_joom .joomthumbnail_discript a{ text-decoration: none;}
+
+.ageent-ru img { border: 2px solid silver;} 
+.ageent-ru:hover img {border-color: gray;}
